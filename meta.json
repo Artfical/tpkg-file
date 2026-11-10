@@ -1,0 +1,23 @@
+{
+ "name": "file",
+ "version": "5.46",
+ "license": "BSD-2-Clause",
+ "homepage": "",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "file-5.46.tar.gz"
+ ],
+ "desc": "file 5.46: tells what a file is, with its magic database",
+ "file": "file-5.46.tpkg",
+ "size": 534338,
+ "sha256": "b34accccacefc5f29eb1b9dfcde163f1cc4850be0a475e5e655c66cfc85fa8bc",
+ "unpacked": 10553144,
+ "min_build": 619,
+ "depends": [],
+ "commands": {
+  "file": "bin/file"
+ }
+}

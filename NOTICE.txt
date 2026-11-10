@@ -1,0 +1,5 @@
+file 5.46 for tOS
+==============
+
+Built from file-5.46.tar.gz (beside this package) on a Linux host with prefix /system/pkg/file, without changes to the source. License: BSD-2-Clause (LICENSE).
+glibc: dynamically linked against the GNU C Library, which tOS's base system carries.
